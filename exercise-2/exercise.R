@@ -54,3 +54,4 @@ mean(basic.fits)
 
 # 7. Pass your most recent model to the `rpart.plot` function to graph it
 rpart.plot(basic.fit)
+
